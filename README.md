@@ -1,4 +1,4 @@
-# reddit-clone
+# Reddit-Clone
 
 > A Reddit Clone
 
